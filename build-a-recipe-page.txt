@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+       name="viewport"
+       content="width=device-width, initial-scale=1.0" />
+    <title>Chocolate Chip Cookies</title>
+  </head>
+  <body>
+    <h1>Chocolate Chip Cookies</h1>
+      <p>The best Chocolate Chip Recipe!</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>chocolate chips</li>
+      <li>flour</li>
+      <li>butter</li>
+      <li>sugar</li>
+      <li>vanilla</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>preheat oven</li>
+      <li>grease cookie sheet</li>
+      <li>mix ingredients</li>
+      <li>bake</li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="a whisk and three eggs">
+  </body>
+</html>
+
+** end of index.html **
+
