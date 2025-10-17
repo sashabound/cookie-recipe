@@ -10,4 +10,4 @@ A simple webpage built with HTML as part of my web development learning journey.
 
 ## Preview
 
-Or view the code directly in the index.html file above.
+view the code directly in the index.html file above.
