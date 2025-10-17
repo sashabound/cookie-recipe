@@ -9,7 +9,5 @@ A simple webpage built with HTML as part of my web development learning journey.
 - Writing clean, readable markup
 
 ## Preview
-You can view the page live here:  
-[View Live Demo](https://sashabound.github.io/cookie-recipe)
 
 Or view the code directly in the index.html file above.
